@@ -29,8 +29,8 @@ Python으로 피드를 수집하고, JSONL에 저장한 뒤 정적 HTML로 만�
 
 | 주제 | 기록 |
 | --- | --- |
-| Java | [기본 문법부터 객체지향까지](https://github.com/lealle/javawork) |
+| Java | [기본 문법부터 객체지향까지](https://github.com/lealle/javawork) · [디자인 패턴](https://github.com/lealle/Modeling) |
 | Spring | [DI · Security · JPA · JPQL · REST](https://github.com/lealle/springwork) |
-| Database | [Oracle SQL · JOIN · 서브쿼리 · PL/SQL](https://github.com/lealle/Database-Oracle) · [모델링](https://github.com/lealle/Modeling) |
+| Database | [Oracle SQL · JOIN · 서브쿼리 · PL/SQL](https://github.com/lealle/Database-Oracle) |
 | Persistence | [MyBatis](https://github.com/lealle/mybatiswork) · [JSP](https://github.com/lealle/JSPwork) |
 | Client | [React](https://github.com/lealle/reactwork) · [Dart / Flutter](https://github.com/lealle/flutterwork) |
