@@ -6,21 +6,32 @@
 
 ## Projects
 
+### Barotruck
+
+화주·기사·관리자를 연결하는 물류 플랫폼 팀 프로젝트입니다.
+주문부터 배차, 운행, 결제·정산까지 이어지는 백엔드 구조를 다룹니다.
+
+`Spring Boot` `Oracle` `WebSocket` · [Backend](https://github.com/TjoeunLast/Backend)
+
+### 냉가이드
+
+1인 가구를 위한 식재료 관리 앱입니다.
+냉장고 관리와 레시피 추천, 식재료 공동구매·나눔, 식비 기록을 함께 다룹니다.
+
+`Spring Boot` `Flutter` `Oracle` · [Backend](https://github.com/Tjoeun4/BackEnd) · [Frontend](https://github.com/Tjoeun4/FrontEnd)
+
 ### RoutePick
 
 여행 일정을 생성하고 지도에서 경로를 확인하는 팀 프로젝트입니다.
 Spring Boot API, Python 일정 생성·경로 최적화, React 화면으로 구성되어 있습니다.
+현재는 테스트 환경과 권한 처리, 응답 구조를 다시 점검하고 있습니다.
 
-- JWT 인증과 회원·일정·장소·리뷰·좋아요 API
-- 외부 지도 API와 일정 생성 로직 연동
-- 현재는 테스트 환경과 권한 처리, 응답 구조를 다시 점검하고 있습니다.
-
-[Backend](https://github.com/tjoeunProject/Backend) · [Frontend](https://github.com/tjoeunProject/Frontend)
+`Spring Boot` `Python` `React` · [Backend](https://github.com/tjoeunProject/Backend) · [Frontend](https://github.com/tjoeunProject/Frontend)
 
 ### devblog
 
 기업·기관의 기술 블로그 글을 모아 보는 RSS 수집기입니다.
-Python으로 피드를 수집하고, JSONL에 저장한 뒤 정적 HTML로 만듭니다.
+Python으로 수집하고 JSONL에 저장한 뒤 정적 HTML로 만듭니다.
 별도 DB 서버 없이 GitHub Actions로 수집 작업을 실행합니다.
 
 [Repository](https://github.com/lealle/devblog)
