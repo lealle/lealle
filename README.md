@@ -1,10 +1,17 @@
+<sub>BACKEND · DATA · NOTES</sub>
+
 # lealle
 
 백엔드를 중심으로 공부하고 만듭니다. Java와 Spring으로 API를 작성하고, SQL로 데이터를 다룹니다.
 
 `Java` · `Spring Boot` · `Spring Security` · `JPA` · `MyBatis` · `Oracle` · `Python`
 
+> **프로젝트와 기록**
+> API와 데이터, 그리고 서비스를 만드는 과정.
+
 ## Projects
+
+<sub>01 / 물류 플랫폼</sub>
 
 ### Barotruck
 
@@ -13,12 +20,16 @@
 
 `Spring Boot` `Oracle` `WebSocket` · [Backend](https://github.com/TjoeunLast/Backend)
 
+<sub>02 / 식재료 관리</sub>
+
 ### 냉가이드
 
 1인 가구를 위한 식재료 관리 앱입니다.
 냉장고 관리와 레시피 추천, 식재료 공동구매·나눔, 식비 기록을 함께 다룹니다.
 
 `Spring Boot` `Flutter` `Oracle` · [Backend](https://github.com/Tjoeun4/BackEnd) · [Frontend](https://github.com/Tjoeun4/FrontEnd)
+
+<sub>03 / 여행 일정</sub>
 
 ### RoutePick
 
@@ -28,13 +39,15 @@ Spring Boot API, Python 일정 생성·경로 최적화, React 화면으로 구�
 
 `Spring Boot` `Python` `React` · [Backend](https://github.com/tjoeunProject/Backend) · [Frontend](https://github.com/tjoeunProject/Frontend)
 
+<sub>04 / 기술 읽기</sub>
+
 ### devblog
 
 기업·기관의 기술 블로그 글을 모아 보는 RSS 수집기입니다.
 Python으로 수집하고 JSONL에 저장한 뒤 정적 HTML로 만듭니다.
 별도 DB 서버 없이 GitHub Actions로 수집 작업을 실행합니다.
 
-[Repository](https://github.com/lealle/devblog)
+[Repository](https://github.com/lealle/devblog) · [기술 글 읽기](https://lealle.github.io/devblog/)
 
 ## Code & notes
 
