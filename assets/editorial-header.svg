@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">lealle — Backend &amp; Data</title><desc id="desc">API와 데이터, 서비스를 만드는 과정의 기록</desc>
+<rect width="1200" height="360" rx="16" fill="#142e29"/>
+<path d="M820 0V360M0 296H1200" stroke="#39534a"/>
+<text x="56" y="57" fill="#a9c8b7" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">BACKEND / DATA / NOTES</text>
+<text x="50" y="151" fill="#f5f3e8" font-family="Georgia,serif" font-size="76">lealle.</text>
+<text x="56" y="207" fill="#d6e0d5" font-family="'Malgun Gothic',sans-serif" font-size="23">API와 데이터, 서비스를 만드는 기록.</text>
+<text x="56" y="263" fill="#a9c8b7" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">JAVA  /  SPRING  /  SQL</text>
+<text x="56" y="334" fill="#d6e0d5" font-family="'Malgun Gothic',sans-serif" font-size="14">PROJECTS &amp; ENGINEERING NOTES</text>
+<g transform="translate(870 65)"><rect x="30" y="0" width="220" height="210" rx="5" fill="#678b77"/><rect x="15" y="15" width="220" height="210" rx="5" fill="#a9c8b7"/><rect y="30" width="220" height="210" rx="5" fill="#f5f3e8"/><text x="24" y="80" fill="#176451" font-family="Georgia,serif" font-size="30">Build log</text><path d="M24 105H194M24 132H164M24 159H180" stroke="#a2b1a3" stroke-width="2"/><text x="24" y="211" fill="#176451" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">CODE / SYSTEMS</text></g></svg>
