@@ -1,4 +1,4 @@
-<sub>BACKEND · DATA · NOTES</sub>
+![lealle · API와 데이터, 서비스를 만드는 기록](assets/editorial-header.svg)
 
 # lealle
 
